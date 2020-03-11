@@ -1,0 +1,21 @@
+{
+    "name": "listinghosting/forms",
+    "description": "Form helper for WHSuite Framework",
+    "license": "",
+    "authors": [
+        {
+            "name": "listinghosting",
+            "email": "git@listinghosting.com"
+        }
+    ],
+    "require": {
+        "whsuite/inputs": "1.*",
+        "illuminate/support": "4.1.x"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Whsuite\\Forms" : "src/"
+        }
+    }
+}
