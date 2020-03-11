@@ -1,7 +1,7 @@
 {
     "name": "listinghosting/forms",
     "description": "Form helper for WHSuite Framework",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "listinghosting",
